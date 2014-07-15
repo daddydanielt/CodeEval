@@ -1,0 +1,3 @@
+# ignore the root test.rb
+/easy_*
+/easy_*.*
