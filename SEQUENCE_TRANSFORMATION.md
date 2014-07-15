@@ -2,10 +2,10 @@ __CodeEval Challenage:__
 
 [SEQUENCE TRANSFORMATION](https://www.codeeval.com/open_challenges/130/)
 
-- - -
 __Below is thinking note & psuedo code:__
 
-__-->__
+# - #
+
 1010 AAAAABBBBAAAA
 
 A 010  => AAAABBBBAAAA
@@ -14,7 +14,7 @@ A AAAA 10 => BBBBAAAA
 
 A AAAA BBBB 0 => AAAA
 
-__-->__
+#
 00 AAAAAA 
 
 [0,0] [A=>6]
@@ -56,15 +56,15 @@ __-->__
       "false"
 
    end
-
-__-->__
+>
 1010 AAAAABBBBAAAA
 
 [1,0,1,0] [A=>5,B=>4,A=>4]
 
 [1,0,1,0] [A=>1,A=>4,B=>4,A=>4]
 
-__-->__
+
+>
 1100110 BBAABABBA
 
 [1,1,0,0,1,1,0] [B=>2, A=>2, B=>1, A=>1, B=>2, A=>1]
@@ -103,7 +103,7 @@ split: BB A A B A BB A
 
 
 
-__-->__
+->
 
 1010 AAAAABBBBAAAABA
 
