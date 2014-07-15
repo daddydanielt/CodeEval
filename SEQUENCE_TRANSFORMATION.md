@@ -2,12 +2,9 @@ __CodeEval Challenage:__
 
 [SEQUENCE TRANSFORMATION](https://www.codeeval.com/open_challenges/130/)
 
-# - - -
 __Below is thinking note & psuedo code:__
 
-
-
-# ---------------------------------------
+# -
 
 1010 AAAAABBBBAAAA
 
