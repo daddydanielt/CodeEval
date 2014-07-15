@@ -2,9 +2,12 @@ __CodeEval Challenage:__
 
 [SEQUENCE TRANSFORMATION](https://www.codeeval.com/open_challenges/130/)
 
+
 __Below is thinking note & psuedo code:__
 
+
 ---------------------------------------- 
+
 1010 AAAAABBBBAAAA
 
 A 010  => AAAABBBBAAAA
@@ -55,7 +58,9 @@ A AAAA BBBB 0 => AAAA
       "false"
 
    end
+
 ----------------------------------------
+
 1010 AAAAABBBBAAAA
 
 [1,0,1,0] [A=>5,B=>4,A=>4]
@@ -64,6 +69,7 @@ A AAAA BBBB 0 => AAAA
 
 
 ----------------------------------------
+
 1100110 BBAABABBA
 
 [1,1,0,0,1,1,0] [B=>2, A=>2, B=>1, A=>1, B=>2, A=>1]
