@@ -4,7 +4,8 @@ __CodeEval Challenage:__
 
 - - -
 __Below is thinking note & psuedo code:__
->
+
+-->
 1010 AAAAABBBBAAAA
 
 A 010  => AAAABBBBAAAA
