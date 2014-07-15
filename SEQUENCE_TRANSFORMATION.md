@@ -6,12 +6,19 @@ __Below is thinking note & psuedo code:__
 
 #-->
 1010 AAAAABBBBAAAA
+
 A 010  => AAAABBBBAAAA
+
 A AAAA 10 => BBBBAAAA
+
 A AAAA BBBB 0 => AAAA
+
 #-->
+
 00 AAAAAA 
+
 [0,0] [A=>6]
+
 [0,0] [A=>1, A=>5]
 
 ~
